@@ -38,11 +38,11 @@ React를 이용하여 현대적이고 직관적인 UI구축을 통해 UX 개선�
 ## 04.설치모듈
 노드 22버전 / npm 18버전
 
-"axios": "^1.8.3",
-    "bootstrap": "^5.3.3",
-    "bootstrap-icons": "^1.11.3",
-    "cra-template": "1.2.0",
-    
+ "axios": "^1.8.3",
+ "bootstrap": "^5.3.3",
+ "bootstrap-icons": "^1.11.3",
+ "cra-template": "1.2.0",
+  
     "react": "^19.0.0",
     
     "react-bootstrap": "^2.10.7",
