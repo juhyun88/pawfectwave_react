@@ -22,8 +22,8 @@ React를 이용하여 현대적이고 직관적인 UI구축을 통해 UX 개선�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;branch -eunhye &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  branch -juhyun
  🧠 기획자 &🎨 디자이너: 정은혜  
- – 서비스 구조 설계, 콘텐츠 기획
- – 감정 색상 체계, UI/UX 컴포넌트 설계
+ – 서비스 구조 설계, 콘텐츠 기획  
+ – 감정 색상 체계, UI/UX 컴포넌트 설계  
  ⚙ 프론트엔드 & DB 연동: 신주현  
  – Supabase 구조 설계 및 연동, 상태관리
 
