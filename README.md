@@ -36,30 +36,20 @@ React를 이용하여 현대적이고 직관적인 UI구축을 통해 UX 개선�
 |배포 환경|	GitHub Pages / Vercel / Netlify 등|
 
 ## 04.설치모듈
-노드 22버전 / npm 18버전
-
- "axios": "^1.8.3",
- "bootstrap": "^5.3.3",
- "bootstrap-icons": "^1.11.3",
- "cra-template": "1.2.0",
-  
-    "react": "^19.0.0",
-    
-    "react-bootstrap": "^2.10.7",
-    
-    "react-dom": "^19.0.0",
-    
-    "react-router-dom": "^7.0.2",
-    
-    "react-scripts": "5.0.1",
-    
-    "sass": "^1.83.0",
-    
-    "styled-components": "^6.1.13",
-    
-    "swiper": "^8.4.7",
-    
-    "web-vitals": "^2.1.4"
+노드 22버전 / npm 18버전  
+ "axios": "^1.8.3",  
+ "bootstrap": "^5.3.3",  
+ "bootstrap-icons": "^1.11.3",  
+ "cra-template": "1.2.0",  
+      "react": "^19.0.0",  
+       "react-bootstrap": "^2.10.7",  
+        "react-dom": "^19.0.0",  
+        "react-router-dom": "^7.0.2",  
+        "react-scripts": "5.0.1",  
+        "sass": "^1.83.0",  
+        "styled-components": "^6.1.13",  
+        "swiper": "^8.4.7",  
+        "web-vitals": "^2.1.4"
     
 
 ## 05.UXUI관련
