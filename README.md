@@ -65,7 +65,7 @@ React를 이용하여 현대적이고 직관적인 UI구축을 통해 UX 개선�
 + 애니메이션 및 전환 효과: Framer Motion 등으로 부드러운 UX 구현
 
 ## 06.슈퍼바이스
-![슈퍼바이스](https://github.com/juhyun88/pawfectwave_team_react/blob/main/img/teamface.png)
+![슈퍼바이스](https://github.com/juhyun88/pawfectwave_team_react/blob/main/img/superbase.jpg)
 
 ## 07.브랜드소개
 + [로고](#로고)
